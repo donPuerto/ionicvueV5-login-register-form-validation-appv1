@@ -1,0 +1,7 @@
+{
+  "name": "ionicvueV5-login-register-form-validation-appv1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
