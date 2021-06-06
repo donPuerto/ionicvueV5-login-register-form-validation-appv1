@@ -1,1 +1,2 @@
-# ionicvueV5-login-register-form-validation-appv1
+# Login and Register
+### Demonstrating the usage of Pinia and Vee Validate
